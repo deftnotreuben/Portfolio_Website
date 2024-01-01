@@ -199,7 +199,7 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: 
-              "Worked on adding features for their internal tools and also created a couple of dashboards for their HR and Business Development teams."
+              Worked on adding features for their internal tools and also created a couple of dashboards for their HR and Business Development teams.
               - Collaborated with cross-functional teams to design and deploy interactive dashboards using Tableau for the HR and Sales teams for internal rewards and business development data respectively, which enhanced data visibility by 30%.
               - Leveraged a NoSQL database using MongoDB for advanced data querying and retrieval, employing query optimization techniques to reduce data retrieval time by 25% for timely access to critical information for relevant stakeholders.
               - Implemented user-centric design changes using Adobe XD leading to a substantial 20% improvement in the user experience.
@@ -214,7 +214,7 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: 
-              "My first experience working for a startup and had a wonderful experience working with the team."
+              My first experience working for a startup and had a wonderful experience working with the team.
               - Applied SQL to extract valuable information from event databases, enhancing the understanding of participant demographics and preferences.
               - Spearheaded the creation of an email marketing campaign using Mailchimp, implementing segmentation techniques that led to a 22% increase in email sign-ups.
               - Conducted in-depth research and analysis using Excel to identify and target potential colleges in Mumbai for organizing promotional events, optimizing outreach strategies.
@@ -232,8 +232,8 @@ params:
           url: "https://umd.edu/"
         date: "Aug 2022 - Dec 2023"
         GPA: "3.85 out of 4.0"
-        content: 
-          "Extracurricular Activities:"
+        content: |-
+          Extracurricular Activities:
             - Participated in a Datathon organized by Deloitte. 
             - Active part of the Smith Analytics Consortium.
       - title: "Bachelor of Engineering in Computer Engineering"
