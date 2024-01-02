@@ -242,7 +242,7 @@ params:
           url: "https://www.pce.ac.in/"
         date: "Jun 2015 - Jun 2019"
         GPA: "3.43 out of 4.0"
-        content: 
+        content: |-
           - Built an app for the Visually Impaired.
           - Authored and published a paper on the same in the International Journal of Research in Engineering, Science and Management in April 2019, Volume-2, Issue-4, ISSN 2581-5792.
           
