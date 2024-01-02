@@ -179,10 +179,10 @@ params:
         company: "Merkle"
         companyUrl: "https://www.merkle.com/"
         date: "Sept 2019 - June 2021"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
+        #featuredLink:
+        #  enable: true
+        #  name: "View the project"
+        #  url: "https://example.com"
         content: |
             I worked as a Data Analyst at Merkle, ertswhile Ugam Solutions for 1.5 years. I was part of the Survey Analytics team which dealt with market research for various organizations in Retail, Healthcare, Entertainment, etc.
             - Applied advanced statistical techniques in IBM SPSS to identify trends and correlations in healthcare survey data, resulting in data-driven recommendations that improved patient satisfaction by 10%
@@ -194,10 +194,10 @@ params:
         company: "Rigil Corporation"
         companyUrl: "https://rigil.com/"
         date: "Jun 2023 - Aug 2023"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
+        #featuredLink:
+        #  enable: true
+        #  name: "View the project"
+        #  url: "https://example.com"
         content: |
             Worked on adding features for their internal tools and also created a couple of dashboards for their HR and Business Development teams.
             - Collaborated with cross-functional teams to design and deploy interactive dashboards using Tableau for the HR and Sales teams for internal rewards and business development data respectively, which enhanced data visibility by 30%.
@@ -209,10 +209,10 @@ params:
         company: "Wakency"
         companyUrl: "https://www.forbesindia.com/article/startups/wakency-for-flexible-jobs/52537/1"
         date: "Jan 2019 - Feb 2019"
-        featuredLink:
-          enable: true
-          name: "View the project"
-          url: "https://example.com"
+        #featuredLink:
+        #  enable: true
+        #  name: "View the project"
+        #  url: "https://example.com"
         content: |
             My first experience working for a startup and had a wonderful experience working with the team.
             - Applied SQL to extract valuable information from event databases, enhancing the understanding of participant demographics and preferences.
