@@ -127,7 +127,7 @@ params:
     title: "Reuben."
     subtitle: "I want to help people make sense of data."
     content: "A passionate data analyst with a couple of years of experience in helping companies make the most of their data."
-    image: "/images/rejireuben.jpg"
+    image: "/rejireuben.jpg"
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
