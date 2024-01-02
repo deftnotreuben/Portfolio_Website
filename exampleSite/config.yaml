@@ -308,7 +308,7 @@ params:
           
       - title: Economic Policy Implementation of Countries during COVID - EDA
         content: Analyzed the economic policy implementation of countries during COVID using Python and gave recommendations.
-        image: /images/project_1.jpg
+        image: /images/project_1.png
         featured:
           name: Project
           link: https://github.com/deftnotreuben/Common-Policy-Implementation---Python-EDA-Project
@@ -323,7 +323,7 @@ params:
 
       - title: Loan Approval Prediction - Machine Learning
         content: Tried my hands on creating Support Vector Machine & Logistic Regression ML models to predict approval of a loan based on various factors.
-        image: /images/project_2.jpg
+        image: /images/project_2.png
         featured:
           name: Project
           link: https://github.com/deftnotreuben/Loan-Prediction-System/tree/main
@@ -348,13 +348,13 @@ params:
     #   emailCaption: "Enter your email address"
     #   messageCaption: "Enter your message here"
 
-  footer:
-    recentPosts:
-      path: "blogs"
-      count: 3
-      title: Recent Posts
-      enable: true
-      disableFeaturedImage: false
+#  footer:
+#    recentPosts:
+#      path: "blogs"
+#      count: 3
+#      title: Recent Posts
+#      enable: true
+#      disableFeaturedImage: false
     socialNetworks:
       github: https://github.com/deftnotreuben
       linkedin: https://www.linkedin.com/in/reubenreji97/
